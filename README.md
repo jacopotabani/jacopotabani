@@ -4,7 +4,7 @@
 
 
 🎯 Fullstack developer presso [Dinamo Digitale](https://dinamodigitale.it)  
-🌐 Website: [jacopotabani.it/3d](https://jacopotabani.it/3d)  
+🌐 Website: [jacopotabani.com/3d](https://jacopotabani.com/3d)  
 
 ---
 
@@ -22,5 +22,5 @@
 
 ### Contatti
 
-- 🌍 [jacopotabani.it](https://jacopotabani.it)
+- 🌍 [jacopotabani.com](https://jacopotabani.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jacopotabani)
